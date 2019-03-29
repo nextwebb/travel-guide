@@ -3,6 +3,7 @@
 - [rpaltayev](https://github.com/rpaltayev)
 - [ngodi](https://github.com/ngodi)
 - [Pierre Khoury](https://github.com/PierreDeveloper18)
+-  [peterson oaikhenah] (https://github.com/nextwebb)
 - [mynaur](https://github.com/mynaur)
 - [akashkann](https://github.com/akashkann)
 - [gabipfeffer](https://github.com/gabipfeffer)
